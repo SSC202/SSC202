@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello World 👋
 
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=SSC202&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=008000&icon_color=008000&theme=transparent" /> </div>
 <!--
 **SSC202/SSC202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
