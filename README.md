@@ -1,5 +1,9 @@
 ### Hello World 👋
 
+哈尔滨工业大学(深圳)电气专业学生，2023/2024年Robocon参赛队员，哈尔滨工业大学(深圳)南工问天战队电控组成员，喜欢囤积笔记/宅。
+
+笔记计划：OpenMV(2023年电赛想更新)，OpenCV(C++)，ROS2(Python/C++)，机器学习理论，电机控制理论。
+
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=SSC202&hide_title=true&hide_border=true&show_icons=trueline_height=21&title_color=008000&icon_color=008000&theme=transparent" /> </div>
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSC202&hide_title=true&hide_border=true&layout=compact&langs_count=6&icon_color=fff&theme=transparent" /> </div>
