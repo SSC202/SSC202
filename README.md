@@ -4,6 +4,8 @@
 
 笔记计划：OpenMV(2023年电赛想更新)，OpenCV(C++)，ROS2(Python/C++)，机器学习理论，电机控制理论。
 
+仓库内都是笔记(自己整理并优化)，有需要可以自己拿去~
+
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=SSC202&hide_title=true&hide_border=true&show_icons=trueline_height=21&title_color=008000&icon_color=008000&theme=transparent" /> </div>
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSC202&hide_title=true&hide_border=true&layout=compact&langs_count=6&icon_color=fff&theme=transparent" /> </div>
