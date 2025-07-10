@@ -4,7 +4,24 @@
 
 笔记计划：电机控制理论。
 
-仓库内都是笔记(自己整理)
+仓库内都是笔记(自己整理):
+
+[电源](https://github.com/SSC202/Power)
+
+[电机](https://github.com/SSC202/Engine)
+
+[视觉](https://github.com/SSC202/Visual)
+
+[STM32](https://github.com/SSC202/STM32_Basic)
+
+[ROS和机器人](https://github.com/SSC202/Robot)
+
+工程/工程模板：
+
+[Robocon2023 R1](https://github.com/SSC202/WTR_R1_V3)
+
+[电机对拖平台](https://github.com/SSC202/FOC_Project)
+
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=SSC202&hide_title=true&hide_border=true&show_icons=trueline_height=21&title_color=008000&icon_color=008000&theme=transparent" /> </div>
 
