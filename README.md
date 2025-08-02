@@ -18,7 +18,7 @@
 
 工程/工程模板：
 
-[Robocon2023 R1](https://github.com/SSC202/WTR_R1_V3)
+[Robocon2024 R1整车](https://github.com/SSC202/WTR_R1_V3)
 
 [电机对拖平台](https://github.com/SSC202/FOC_Project)
 
