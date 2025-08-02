@@ -22,6 +22,8 @@
 
 [电机对拖平台](https://github.com/SSC202/FOC_Project)
 
+[电赛2025 A题 能量回馈装置](https://github.com/SSC202/FOC_Project)
+
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=SSC202&hide_title=true&hide_border=true&show_icons=trueline_height=21&title_color=008000&icon_color=008000&theme=transparent" /> </div>
 
