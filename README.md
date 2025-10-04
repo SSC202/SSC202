@@ -24,6 +24,12 @@ HITSZ 电气工程 硕士(电机) / Robocon(2023/2024) / WTR战队电控/硬件�
 
 [电赛2025 A题 能量回馈装置](https://github.com/SSC202/Three_Port_ACDC_Converter)
 
+开源硬件项目：
+
+[WTR_IPM_ESC: 中小功率PMSM驱动器](https://github.com/SSC202/WTR_IPM_ESC.git)
+
+[WTR_Steer_Driver: 六路隔离舵机启动器](https://github.com/SSC202/WTR_Steer_Driver)
+
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=SSC202&hide_title=true&hide_border=true&show_icons=trueline_height=21&title_color=008000&icon_color=008000&theme=transparent" /> </div>
 
